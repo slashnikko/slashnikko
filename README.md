@@ -14,6 +14,6 @@ Aspiring Software Developer focused on Python and Web Development.
 - Weather App (work in progress)
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/nikko-johnson-5013303b5/
+LinkedIn: https://www.linkedin.com/in/niyah-johnson-5013303b5/
 GitHub: https://github.com/slashnikko
 
