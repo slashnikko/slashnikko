@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nikko<br><br>Aspiring Software Developer focused on Python and Web Development.<br>Technologies I'm Learning<br><br>Python<br>JavaScript<br>HTML / CSS<br>Git<br><br>Current Projects<br><br>Tetris Game (complete)<br>Notes web app (complete)<br>Weather App (work in progress)
+Hi, I'm Nikko<br><br>Aspiring Software Developer focused on Python and Web Development.<br>Technologies I'm Learning<br><br>Python<br>JavaScript<br>HTML / CSS<br>Git<br><br>Current Projects<br><br>Tetris Game (complete)<br>Notes web app (complete)<br>Weather App (coming soon)
 
 
 ## 🌐 Socials:
