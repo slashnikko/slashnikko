@@ -15,4 +15,5 @@ Hi, I'm Nikko<br><br>Aspiring Software Developer focused on Python and Web Devel
 ---
 [![](https://visitcount.itsvg.in/api?id=slashnikko&icon=2&color=7)](https://visitcount.itsvg.in)
 
+© 2026 </Nikko>. All rights reserved.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
